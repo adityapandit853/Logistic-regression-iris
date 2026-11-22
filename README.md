@@ -94,4 +94,13 @@ Logistic Regression was successfully implemented for binary classification using
 
 This experiment demonstrates how Logistic Regression uses numerical features and the Sigmoid Function to calculate probabilities and classify data into two categories.
 
-**Limitation:** The dataset is small, and Setosa and Versicolor are relatively
+**Limitation:** The dataset is small, and Setosa and Versicolor are relatively easy to distinguish using petal measurements. Therefore, these results may not represent performance on more complex real-world datasets.
+
+## Faculty Reference
+
+Faculty GitHub Profile: [https://github.com/complexiota](https://github.com/complexiota)
+
+---
+
+**Academic Activity:** CIE 2 – Activity 2  
+**Topic:** Binary Classification using Logistic Regression
